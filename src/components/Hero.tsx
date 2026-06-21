@@ -115,7 +115,7 @@ export default function Hero({ onPlanClick }: HeroProps) {
           >
             <div className="w-full h-[81%] overflow-hidden rounded-sm bg-[#FAF8F5]">
               <img
-                src="/src/assets/images/luxury_hamper_1782028572273.jpg"
+                src="/src/assets/images/luxury_hamper.jpg"
                 alt="Luxury Customized Hamper Chest"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
@@ -136,7 +136,7 @@ export default function Hero({ onPlanClick }: HeroProps) {
           >
             <div className="w-full h-[80%] overflow-hidden rounded-sm bg-[#FAF8F5]">
               <img
-                src="/src/assets/images/nikah_certificate_1782028604455.jpg"
+                src="/src/assets/images/nikah_certificate.jpg"
                 alt="Bespoke Illuminated Nikah Deed"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
@@ -157,7 +157,7 @@ export default function Hero({ onPlanClick }: HeroProps) {
           >
             <div className="w-full h-[81%] overflow-hidden rounded-sm bg-[#FAF8F5]">
               <img
-                src="/src/assets/images/bespoke_ring_platter_1782028587949.jpg"
+                src="/src/assets/images/ring_platter.jpg"
                 alt="Bespoke Ceremonial Ring Platter"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

@@ -66,7 +66,7 @@ export const SERVICE_ITEMS: ServiceItem[] = [
     accentTitle: "Curated with Intent",
     description: "Bespoke gift boxes configured with handpicked premium delicacies, premium body cares, customized message books, and floral decorations tucked elegantly inside wooden chests.",
     longCopy: "A HAMPERS_4_YOU custom hamper is far more than a collection of items—it is a carefully composed symphonic experience. Tailored precisely to standard themes like milestone birthdays, corporate achievements, wedding anniversaries, or exclusive bridal showers, we source each element with extreme care. Whether it is premium handcrafted chocolates wrapped in custom gold foils, rare artisanal candles, or custom-engraved keepsake boxes, everything is coordinated visually. We build each hamper to reflect the recipient's character and your high regard for them.",
-    mainImage: "/src/assets/images/luxury_hamper_1782028572273.jpg",
+    mainImage: "/src/assets/images/luxury_hamper.jpg",
     category: "hamper",
     features: [
       "Custom hand-crafted solid or acrylic keepsake chests",
@@ -83,7 +83,7 @@ export const SERVICE_ITEMS: ServiceItem[] = [
     accentTitle: "Elevating the Ring Exchange",
     description: "Elegant, premium customized ring displays and platters featuring plush velvets, fresh roses, and gold ring mounts designed to amplify engagement and wedding details.",
     longCopy: "The ring exchange is a pivotal chapter in your love story. Our ring platters are designed to serve as the perfect visual backdrop for that exact moment. Crafted by hand, each platter features layers of premium fabrics (such as fine silk or heavy royal velvet), bordered by bespoke metallic trims and decorated with delicate accents of glass, porcelain, and pearl. We customize the layout to arrange your ring trays alongside calligraphed couple tags, making the platter both a high-fidelity ceremony prop and a beautiful keepsake drawer item you'll treasure forever.",
-    mainImage: "/src/assets/images/bespoke_ring_platter_1782028587949.jpg",
+    mainImage: "/src/assets/images/ring_platter.jpg",
     category: "platter",
     features: [
       "Plush hand-lined premium velvet or pure silk bases",
@@ -100,7 +100,7 @@ export const SERVICE_ITEMS: ServiceItem[] = [
     accentTitle: "Written in Golden Arabesque",
     description: "Exquisite Nikah contracts printed on heavy archival stock and illuminated with beautiful Islamic geometric gold-dust margins and customized calligraphic text.",
     longCopy: "A Nikah ceremony is a monumental covenant. Our Premium Nikah Certificates turn this high-importance paper into a magnificent work of art. We design these keepsake deeds with heavy textured fine-art parchment paper. The borders are decorated with intricate hand-painted or printed arabesque, floral patterns, and delicate gold foiling. Our professional caligraphers custom format your details, signatures, and witnesses into timeless script. Ready for framing, it stands as an enduring beautiful accent for your new home.",
-    mainImage: "/src/assets/images/nikah_certificate_1782028604455.jpg",
+    mainImage: "/src/assets/images/nikah_certificate.jpg",
     category: "certificate",
     features: [
       "Heavy 300gsm archival cotton rag parchment",
@@ -117,7 +117,7 @@ export const SERVICE_ITEMS: ServiceItem[] = [
     accentTitle: "The Signature Moment Redefined",
     description: "Elegant custom boards for capturing signature thumbprints paired with luxury gold-trimmed signature pens decorated with ribbons and dried botanical sprays.",
     longCopy: "The moment you put ink to paper (or thumbprint to canvas) represents the beginning of a lifelong union. Our customized Nikkah Thumb Signature Boards and matching luxury pens are designed specifically to cherish and showcase this ritual. The boards are customized with high-visibility calligraphed details and customized coordinate slots for signatures. Accompanied by our custom-crafted deluxe pens—wrapped with silk thread and topped with ostrich feathers or preserved blossom boutonnières—the entire signature setup turns a fleeting protocol into an unforgettable photo-op.",
-    mainImage: "/src/assets/images/thumb_board_pens_1782028620453.jpg",
+    mainImage: "/src/assets/images/resin_platter.jpg",
     category: "board",
     features: [
       "Rigid satin-covered signature boards or premium canvas panels",
@@ -224,7 +224,7 @@ export const DEFAULT_CATALOGUE_ITEMS: CatalogueItem[] = [
     title: "The Regal Empress Chest",
     subtitle: "Ornate Gilded Bridal Hamper",
     description: "Features custom ivory velvet lining, hand-tied gold silk bows, customized botanical glass bottle, dual gold compartments, and premium wax seal monogramming.",
-    image: "/src/assets/images/luxury_hamper_1782028572273.jpg",
+    image: "/src/assets/images/luxury_hamper.jpg",
     tag: "Luxury Gift Chests",
     dimensions: "16\" x 12\" x 8\"",
     medium: "Crafted Solid Pine wood, Velvet, Hand-dyed Silk"
@@ -234,7 +234,7 @@ export const DEFAULT_CATALOGUE_ITEMS: CatalogueItem[] = [
     title: "Classic Royal Velvet Platter",
     subtitle: "Handcrafted Ceremonial Wedding Ring Display",
     description: "Draped in luxury rose-champagne velvet, centered by dynamic silk blossoms and mirror-polished gold ring stems to frame your sacred tokens.",
-    image: "/src/assets/images/bespoke_ring_platter_1782028587949.jpg",
+    image: "/src/assets/images/ring_platter.jpg",
     tag: "Ring Platters",
     dimensions: "12\" Diameter",
     medium: "Curved Wood foundation, Royal Velvet, Gilded Steel Stems"
@@ -244,7 +244,7 @@ export const DEFAULT_CATALOGUE_ITEMS: CatalogueItem[] = [
     title: "Illuminated Floral Nikah Scroll",
     subtitle: "Custom Hand-Lettered Traditional Bound Certificate",
     description: "Fine archival calligraphic ink on premium 300gsm textured watercolor stock, adorned with golden botanical filigree borders and matching royal satin ties.",
-    image: "/src/assets/images/nikah_certificate_1782028604455.jpg",
+    image: "/src/assets/images/nikah_certificate.jpg",
     tag: "Traditional Certificates",
     dimensions: "11.7\" x 16.5\" (A3 size)",
     medium: "Archival Ink, 300gsm Textured Pulp, Gold Leaf Foil"
@@ -254,7 +254,7 @@ export const DEFAULT_CATALOGUE_ITEMS: CatalogueItem[] = [
     title: "Gilded Signature Plume & Guest Board",
     subtitle: "Luxury Acrylic Signing Keepsake & Writing Tray",
     description: "A signature guest book board decorated with delicate golden leaf patterns, complete with a personalized ivory plume pen stand and custom guest sign sections.",
-    image: "/src/assets/images/thumb_board_pens_1782028620453.jpg",
+    image: "/src/assets/images/resin_platter.jpg",
     tag: "Signature Boards",
     dimensions: "14\" x 18\"",
     medium: "Crystal Glass Acrylic, Polished Brass accents, White Goose Plume"
